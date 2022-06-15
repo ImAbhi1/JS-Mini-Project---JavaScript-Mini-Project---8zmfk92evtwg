@@ -25,4 +25,4 @@
     <li>Draw = > Blue</li></i><b>
 </ol>
 
-<i><b><a href="https://dynamic-cajeta-1dcb9e.netlify.app/">Click here to play the game</b></i>
+<i><b><a href="https://tiny-cranachan-675878.netlify.app">Click here to play the game</b></i>
